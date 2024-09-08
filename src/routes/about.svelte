@@ -83,7 +83,7 @@
     <div class="inner-wrapper">
         <div class="left">
             <h3 class='highlight'>About me</h3>
-            <h2>Full stack <br> Software Developer</h2>
+            <h2>Software Developer</h2>
             <a href="https://github.com/YoruAlptraum" target="_blank">
                 <p>Take a look at my github
                     <svg class="icon" viewBox="0 0 100 100" title="a">
